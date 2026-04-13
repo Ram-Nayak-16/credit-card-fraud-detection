@@ -1,9 +1,17 @@
 # 🛡️ FraudShield Pro: AI-Powered Fraud Detection
 
 ![GitHub Version](https://img.shields.io/github/v/release/Ram-Nayak-16/credit-card-fraud-detection?color=blue&label=version)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://fraudshield-pro.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://credit-card-fraud-det.streamlit.app/)
 
 **FraudShield Pro** is a premium, high-intelligence dashboard designed to detect fraudulent credit card transactions in real-time. Built with a sophisticated multi-algorithm machine learning pipeline and a state-of-the-art Glassmorphism UI, it provides both powerful detection and deep analytical insights.
+
+---
+
+## 🌐 Live Demo
+
+> 🚀 **[Open the Live App → https://credit-card-fraud-det.streamlit.app/](https://credit-card-fraud-det.streamlit.app/)**
+
+No installation required — try the full dashboard instantly in your browser!
 
 ---
 
